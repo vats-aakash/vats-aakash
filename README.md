@@ -8,6 +8,7 @@
 
 <br/><br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-D4AF37?style=for-the-badge&logo=netlify&logoColor=white)](https://velvety-kataifi-7712e7.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Vats-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-vats-b95a1224b)
 [![Email](https://img.shields.io/badge/Email-Avatsn16%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Avatsn16@gmail.com)
 [![Location](https://img.shields.io/badge/New%20Delhi-India-0D1B2A?style=for-the-badge&logo=googlemaps&logoColor=14B8A6)](https://maps.google.com/?q=New+Delhi)
@@ -215,6 +216,7 @@ Standardized and documented end-to-end audit workflows across 8+ product systems
 
 **Remote-first · Async-friendly · Available immediately**
 
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-D4AF37?style=for-the-badge&logo=netlify&logoColor=white)](https://velvety-kataifi-7712e7.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-vats-b95a1224b)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Avatsn16@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-vats--aakash-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vats-aakash)
