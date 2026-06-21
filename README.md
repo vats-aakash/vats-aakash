@@ -21,21 +21,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vats-aakash&show_icons=true&theme=tokyonight&hide_border=true&title_color=D4AF37&icon_color=14B8A6&text_color=E2E8F0&bg_color=0D1B2A" height="170"/>
-<img src="https://streak-stats.demolab.com/?user=vats-aakash&theme=tokyonight&hide_border=true&background=0D1B2A&ring=14B8A6&fire=D4AF37&currStreakLabel=14B8A6&sideLabels=E2E8F0&dates=E2E8F0" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vats-aakash&layout=compact&theme=tokyonight&hide_border=true&title_color=D4AF37&text_color=E2E8F0&bg_color=0D1B2A" height="170"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vats-aakash&hide_border=true&bg_color=0D1B2A&color=14B8A6&line=7C3AED&point=D4AF37&area=true&area_color=14B8A6" width="95%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=vats-aakash&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=12" width="95%"/>
-
-</div>
-
----
-
 ## 💡 Who I Am
 
 ```yaml
@@ -107,7 +92,7 @@ At **Harris Computer**, I audit billing across 8+ product systems (Amazing Chart
 <summary><b>🏥 Senior Business Analyst — Harris Computer (ACE / Ambulatory Group) | Apr 2023 – Present</b></summary>
 <br/>
 
-**Domain:** Healthcare SaaS · EHR Platforms · B2B · Remote from India, serving the US market · Promoted from Junior BA in 18 months — VP-recognized performance
+**Domain:** Healthcare SaaS · EHR Platforms · B2B · Remote from India, serving the US market
 
 - 💰 **Recovered $120K+ in audited revenue** (FY2024: $64K · FY2025: $36K · FY2026 YTD: $20K+) via billing audits, vendor reconciliations, and pricing true-ups across 8+ product systems (Amazing Charts, MedFx, Updox, NewCrop eRx)
 - 📈 **Led SQL-driven price-rollout modeling** and SDLC-compliant change management for 15+ product lines — cut deployment defects by ~22% through structured UAT/QA
@@ -202,6 +187,23 @@ Standardized and documented end-to-end audit workflows across 8+ product systems
 🌟  Google AI Professional Certificate
 🌟  Data Governance & AI Fundamentals — DataCamp
 ```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vats-aakash&show_icons=true&theme=tokyonight&hide_border=true&title_color=D4AF37&icon_color=14B8A6&text_color=E2E8F0&bg_color=0D1B2A" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=vats-aakash&theme=tokyonight&hide_border=true&background=0D1B2A&ring=14B8A6&fire=D4AF37&currStreakLabel=14B8A6&sideLabels=E2E8F0&dates=E2E8F0" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vats-aakash&layout=compact&theme=tokyonight&hide_border=true&title_color=D4AF37&text_color=E2E8F0&bg_color=0D1B2A" height="170"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vats-aakash&hide_border=true&bg_color=0D1B2A&color=14B8A6&line=7C3AED&point=D4AF37&area=true&area_color=14B8A6" width="95%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vats-aakash&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=12" width="95%"/>
+
+</div>
 
 ---
 
